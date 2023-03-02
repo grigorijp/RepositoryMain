@@ -6,5 +6,5 @@ Gruss aus VisualStudio!
 Tortoise on Action
 Der zweite Gruss aus VisualStudio!
 
-From Branch
+From AnotherBranch
 
